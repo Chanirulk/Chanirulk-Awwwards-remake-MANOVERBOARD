@@ -1,7 +1,11 @@
 # Chanirulk-Awwwards-remake-MANOVERBOARD
 
 # This Website was crafted by - @chaniru.lk - Instagram
-![Scrrenshot](./src/components/img/screenshot.png)
+# Home
+![Screenshot](./assets/img/screenshot-1.png)
+# About
+![Screenshot](./assets/img/screenshot-2.png)
+
 # About the AUTHOR
 
 Follow on instagram - @chaniru.lk 
